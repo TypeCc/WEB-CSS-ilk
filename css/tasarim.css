@@ -1,0 +1,42 @@
+h1 {
+    color:#2B3A55; 
+    font-size:32px ;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+a {
+    color:#f10000;
+    font-size:20px;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+p,ul {
+    color:#2B3A55;
+    font-size:16px ;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+p.i {
+    font-style: italic;
+}
+
+h2 {
+    color:#2B3A55; 
+    font-size:27px ;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+h3 {
+    color:#f90000;
+    font-size:16px;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+h4 {
+    color:#2B3A55; 
+    font-size:16px;
+    font-family:Arial, Helvetica, sans-serif
+
+}
+
+body {background-color:#39f78b ;}
